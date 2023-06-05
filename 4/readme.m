@@ -87,14 +87,14 @@ private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListe
   
 - <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d6.png" />
       
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d7.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d7.jpg" />
       
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d8.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d8.jpg" />
       
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d9.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d9.jpg" />
       
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d10.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d10.jpg" />
       
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d11.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d11.jpg" />
       
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d12.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d12.jpg" />
