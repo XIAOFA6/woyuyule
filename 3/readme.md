@@ -251,8 +251,12 @@ jupyter nbextensions_configurator enable --user
 点击Nbextensions标签，勾选Hinterland
 接下来可以在notebook进行验证，Tab健可以补全或者选择代码。
 
-### 实验效果截图如下
+### 实验效果截图如下  
+
 - <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c1.png" />
+
 - <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c2.png" />
+
 - <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c3.png" />
+
 - <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c4.png" />
