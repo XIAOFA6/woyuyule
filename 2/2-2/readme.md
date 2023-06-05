@@ -798,6 +798,9 @@ videoCapture = VideoCapture.withOutput(recorder)
 
 ```
 ### 实验结果如下图
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/1.png" />
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/2.png" />
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/3.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/b1.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/b2.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/b3.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/b4.png" />
+--<img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/b5.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/b6.png" />
