@@ -253,10 +253,4 @@ jupyter nbextensions_configurator enable --user
 
 ### 实验效果截图如下  
 
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c1.png" />
-
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c2.png" />
-
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c3.png" />
-
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c4.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/a1.png" />
