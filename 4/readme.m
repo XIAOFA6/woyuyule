@@ -1,4 +1,5 @@
-### 下载初始代码
+下载初始代码
+
 创建工作目录，使用
 ```
 git clone https://github.com/hoitab/TFLClassify.git
@@ -40,7 +41,7 @@ private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListe
 ```
 
 2.在CameraX的analyze方法内部，需要将摄像头的输入ImageProxy转化为Bitmap对象，并进一步转化为TensorImage 对象
- ...
+```
   override fun analyze(imageProxy: ImageProxy) {
   ...
   // TODO 2: Convert Image to Bitmap then to TensorImage
@@ -48,12 +49,12 @@ private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListe
   ...
 }
 
- ...
+```
    
    3.对图像进行处理并生成结果，主要包含下述操作：
    按照属性score对识别结果按照概率从高到低排序
 列出最高k种可能的结果，k的结果由常量MAX_RESULT_DISPLAY定义
- ...
+```
    override fun analyze(imageProxy: ImageProxy) {
   ...
   // TODO 3: Process the image using the trained model, sort and pick out the top results
@@ -65,12 +66,13 @@ private class ImageAnalyzer(ctx: Context, private val listener: RecognitionListe
   ...
 }
 
-    ...
+```
  4.将识别的结果加入数据对象Recognition 中，包含label和score两个元素。后续将用于RecyclerView的数据显示
  
  5.将原先用于虚拟显示识别结果的代码注释掉或者删除
  
  6.以物理设备重新运行start模块
+ ```
  
  ### 实验截图结果如下
       
