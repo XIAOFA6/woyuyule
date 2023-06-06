@@ -75,27 +75,26 @@ private class ImageAnalyzer(ctx Context, private val listener RecognitionListene
  
  ### 实验截图结果如下
       
-   
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd1.png 
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d1.png" />
 
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd2.png 
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d2.png" />
 
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd3.png 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd4.png 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd5.png 
-  
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd6.png 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd7.jpg 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd8.jpg 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd9.jpg 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd10.jpg 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd11.jpg 
-      
-- img src=httpsgithub.comXIAOFA6woyuyuleblobmainimgd12.jpg 
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d3.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d4.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d5.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d6.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d7.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d8.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d9.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d10.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d11.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/d12.png" />
