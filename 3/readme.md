@@ -213,8 +213,7 @@ plot_with_std(x, y1.values, stds1, ax1, title % 'profits', 'Profit (millions)')
 plot_with_std(x, y2.values, stds2, ax2, title % 'revenues', 'Revenue (millions)')
 fig.set_size_inches(14, 4)
 fig.tight_layout()
-
-
+```
 ```
 可见，不同公司之间的收入和利润差距惊人，那么到底前10%和后10%的公司谁的波动更大了？此外，还有很多有价值的信息值得进一步挖掘。
 
@@ -253,4 +252,10 @@ jupyter nbextensions_configurator enable --user
 
 ### 实验效果截图如下  
 
-- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/a1.png" />
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c1.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c2.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c3.png" />
+
+- <img src="https://github.com/XIAOFA6/woyuyule/blob/main/img/c4.png" />
