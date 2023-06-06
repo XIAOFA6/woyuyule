@@ -132,10 +132,9 @@ df.loc[non_numberic_profits].head()
 确实存在这样的记录，profit这一列为字符串，统计一下到底存在多少条这样的记录。
 ```
 len(df.profit[non_numberic_profits])
-
+```
 ```
 369
-
 ```
 总体来说，利润（profit）列包含非数字的记录相对来说较少。更进一步，使用直方图显示一下按照年份的分布情况。
 ```
@@ -214,7 +213,7 @@ plot_with_std(x, y2.values, stds2, ax2, title % 'revenues', 'Revenue (millions)'
 fig.set_size_inches(14, 4)
 fig.tight_layout()
 ```
-```
+
 可见，不同公司之间的收入和利润差距惊人，那么到底前10%和后10%的公司谁的波动更大了？此外，还有很多有价值的信息值得进一步挖掘。
 
 ### 分享Notebooks
