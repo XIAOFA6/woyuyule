@@ -100,6 +100,7 @@ loss, accuracy = model.evaluate(test_data)
 ```
 model.export(export_dir='.')
 ```
+```
 2023-06-07 01:32:01.038924: W tensorflow/python/util/util.cc:368] Sets are not currently considered sequences, but this may change in the future, so consider avoiding using them.
 INFO:tensorflow:Assets written to: /tmp/tmpanp4kif3/assets
 INFO:tensorflow:Assets written to: /tmp/tmpanp4kif3/assets
